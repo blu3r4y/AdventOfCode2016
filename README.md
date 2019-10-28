@@ -7,6 +7,7 @@ My solutions for the [AoC 2016](https://adventofcode.com/2016) challenges, writt
 ## Challenges
 
 - **[Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1)** - [Solution](src/day1.py)
+- **[Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)** - [Solution](src/day2.py)
 
 ## Requirements
 
