@@ -2,6 +2,7 @@
 .vscode/
 *.iml
 
+src/day.py
 src/scratchpad.ipynb
 
 # Byte-compiled / optimized / DLL files
